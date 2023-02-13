@@ -1,6 +1,6 @@
 # Project Description
 
-This is a simple front end ReactJs project that interact with a NodeJs API to create a Gat IoT monitoring system with:
+This is a simple front end ReactJs project that interact with a NodeJs API to create a Temperature IoT monitoring system with:
 
 1. A initial web page that show you a list of companies:
 ![JSProjectFrontend12](https://user-images.githubusercontent.com/54197776/218365863-10da99f1-63fb-497a-8baf-ccc72478b7f1.png)
