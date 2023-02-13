@@ -1,6 +1,6 @@
 # Project Description
 
-This is a simple front end ReactJs project that interact with a NodeJs API to create a Gat IoT monitoring system with:
+This is a simple front end ReactJs project that interact with a NodeJs API to create a Gas IoT monitoring system with:
 
 1. A initial web page that show you a list of companies:
 ![JSProjectFrontend1](https://user-images.githubusercontent.com/54197776/218363024-9f324240-9e07-45fd-bf85-19d41a16c3e9.png)
