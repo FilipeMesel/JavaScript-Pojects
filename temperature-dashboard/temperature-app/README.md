@@ -3,22 +3,27 @@
 This is a simple front end ReactJs project that interact with a NodeJs API to create a Gat IoT monitoring system with:
 
 1. A initial web page that show you a list of companies:
-![JSProjectFrontend1](https://user-images.githubusercontent.com/54197776/218363024-9f324240-9e07-45fd-bf85-19d41a16c3e9.png)
+![JSProjectFrontend12](https://user-images.githubusercontent.com/54197776/218365863-10da99f1-63fb-497a-8baf-ccc72478b7f1.png)
+
 
 2. Another page that show you a list of devices registered by the company:
-![JSProjectFrontend2](https://user-images.githubusercontent.com/54197776/218363099-2d1a0487-f1d5-4324-b285-98688018bf39.png)
+![JSProjectFrontend22](https://user-images.githubusercontent.com/54197776/218365908-2dba11e9-9f24-4bc3-95cb-2ef21bd56faf.png)
+
 
 3. A Device details with some charts and tables:
-![JSProjectFrontend3](https://user-images.githubusercontent.com/54197776/218363146-b203cc57-8b93-431a-a191-8c5ecc83cad7.png)
-![JSProjectFrontend4](https://user-images.githubusercontent.com/54197776/218363165-e14ebed8-7c08-45bc-9b04-4f9878f2df53.png)
+![JSProjectFrontend32](https://user-images.githubusercontent.com/54197776/218365920-2630b5f3-fdc3-4dca-9bb6-45f1550f440a.png)
+![JSProjectFrontend42](https://user-images.githubusercontent.com/54197776/218365930-9121f530-28a0-403b-a762-42295a03c9c3.png)
+
+
 
 4. Option to share data in .pdf or .csv format:
-![JSProjectFrontend5](https://user-images.githubusercontent.com/54197776/218363209-0002c459-f087-40eb-8a24-f220382366bc.png)
+![JSProjectFrontend52](https://user-images.githubusercontent.com/54197776/218365941-3ca9492b-1029-4237-8711-03b8314b0fbd.png)
+
 
 
 # Getting Started with Create React App
 
-Front end project from a simple IoT Gas monitoring System. If you want to run this code, just clone this git repository and type in command line:
+Front end project from a simple IoT Temperature monitoring System. If you want to run this code, just clone this git repository and type in command line:
 
 npm install
 npm start
@@ -60,4 +65,4 @@ This component uses a React features to create a simple form where you can add a
 
 ## DeviceDetails.js
 This component uses a React HOOKs (useEffect) to interact (using Axios) with an API for get information about a device table into a MySQL database.
-You can see a lot of charts and tables with a lot of data gas measurement. And, it has an Tab component form where you can export (PDF and EXCEL modes) a data collection in a specific period of time.
+You can see a lot of charts and tables with a lot of data temperature measurement. And, it has an Tab component form where you can export (PDF and EXCEL modes) a data collection in a specific period of time.
