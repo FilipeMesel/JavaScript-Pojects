@@ -3,21 +3,25 @@
 This is a simple front end ReactJs project that interact with a NodeJs API to create a Gat IoT monitoring system with:
 
 1. A initial web page that show you a list of companies:
-![JSProjectFrontend12](https://user-images.githubusercontent.com/54197776/218365863-10da99f1-63fb-497a-8baf-ccc72478b7f1.png)
+![JSProjectFrontend13](https://user-images.githubusercontent.com/54197776/218370186-590dcd36-e421-4ea8-a9db-f0d3dd5df93c.png)
+
 
 
 2. Another page that show you a list of devices registered by the company:
-![JSProjectFrontend22](https://user-images.githubusercontent.com/54197776/218365908-2dba11e9-9f24-4bc3-95cb-2ef21bd56faf.png)
+![JSProjectFrontend23](https://user-images.githubusercontent.com/54197776/218370211-3ec88c53-d129-4f37-9d73-6ae5d8ad789c.png)
+
 
 
 3. A Device details with some charts and tables:
-![JSProjectFrontend32](https://user-images.githubusercontent.com/54197776/218365920-2630b5f3-fdc3-4dca-9bb6-45f1550f440a.png)
-![JSProjectFrontend42](https://user-images.githubusercontent.com/54197776/218365930-9121f530-28a0-403b-a762-42295a03c9c3.png)
+![JSProjectFrontend33](https://user-images.githubusercontent.com/54197776/218370227-f4ca34e9-eda0-44ee-85fb-65ee44c51130.png)
+![JSProjectFrontend43](https://user-images.githubusercontent.com/54197776/218370237-86143f10-6372-4d66-9335-8bb24009f26c.png)
+
 
 
 
 4. Option to share data in .pdf or .csv format:
-![JSProjectFrontend52](https://user-images.githubusercontent.com/54197776/218365941-3ca9492b-1029-4237-8711-03b8314b0fbd.png)
+![JSProjectFrontend53](https://user-images.githubusercontent.com/54197776/218370252-1e7f68d8-6831-4cd7-b18f-a3bb57d1bd55.png)
+
 
 
 
