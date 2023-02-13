@@ -1,6 +1,6 @@
 # Project Description
 
-This is a simple front end ReactJs project that interact with a NodeJs API to create a Gat IoT monitoring system with:
+This is a simple front end ReactJs project that interact with a NodeJs API to create a Humidity IoT monitoring system with:
 
 1. A initial web page that show you a list of companies:
 ![JSProjectFrontend13](https://user-images.githubusercontent.com/54197776/218370186-590dcd36-e421-4ea8-a9db-f0d3dd5df93c.png)
