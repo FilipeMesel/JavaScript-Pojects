@@ -1,3 +1,21 @@
+# Project Description
+
+This is a simple front end ReactJs project that interact with a NodeJs API to create a Gat IoT monitoring system with:
+
+1. A initial web page that show you a list of companies:
+![JSProjectFrontend1](https://user-images.githubusercontent.com/54197776/218363024-9f324240-9e07-45fd-bf85-19d41a16c3e9.png)
+
+2. Another page that show you a list of devices registered by the company:
+![JSProjectFrontend2](https://user-images.githubusercontent.com/54197776/218363099-2d1a0487-f1d5-4324-b285-98688018bf39.png)
+
+3. A Device details with some charts and tables:
+![JSProjectFrontend3](https://user-images.githubusercontent.com/54197776/218363146-b203cc57-8b93-431a-a191-8c5ecc83cad7.png)
+![JSProjectFrontend4](https://user-images.githubusercontent.com/54197776/218363165-e14ebed8-7c08-45bc-9b04-4f9878f2df53.png)
+
+4. Option to share data in .pdf or .csv format:
+![JSProjectFrontend5](https://user-images.githubusercontent.com/54197776/218363209-0002c459-f087-40eb-8a24-f220382366bc.png)
+
+
 # Getting Started with Create React App
 
 Front end project from a simple IoT Gas monitoring System. If you want to run this code, just clone this git repository and type in command line:
