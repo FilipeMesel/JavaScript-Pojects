@@ -202,13 +202,13 @@ export default function DeviceDetails(props) {
       <TabPanel value={value} index={1}>
         <Typography variant="h8" color="text.secondary">
           <TableContainer component={Paper}>
-            <Table sx={{ minWidth: 650, backgroundColor: '#195e2b' }} aria-label="simple table">
+            <Table sx={{ minWidth: 650, backgroundColor: '#ddcaed' }} aria-label="simple table">
               <TableHead>
-                <TableRow sx={{ backgroundColor: '#1c943b' }}>
+                <TableRow sx={{ backgroundColor: '#867296' }}>
                   <TableCell>FK_Sistema</TableCell>
                   <TableCell align="right">Serial do Equipamento</TableCell>
                   <TableCell align="right">Alarme</TableCell>
-                  <TableCell align="right">Valor medido de Temperatura</TableCell>
+                  <TableCell align="right">Valor medido de Pressão</TableCell>
                   <TableCell align="right">Data e Hora</TableCell>
                 </TableRow>
               </TableHead>

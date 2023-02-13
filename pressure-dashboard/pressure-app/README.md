@@ -23,7 +23,7 @@ This is a simple front end ReactJs project that interact with a NodeJs API to cr
 
 # Getting Started with Create React App
 
-Front end project from a simple IoT Temperature monitoring System. If you want to run this code, just clone this git repository and type in command line:
+Front end project from a simple IoT Pressure monitoring System. If you want to run this code, just clone this git repository and type in command line:
 
 npm install
 npm start
@@ -65,4 +65,4 @@ This component uses a React features to create a simple form where you can add a
 
 ## DeviceDetails.js
 This component uses a React HOOKs (useEffect) to interact (using Axios) with an API for get information about a device table into a MySQL database.
-You can see a lot of charts and tables with a lot of data temperature measurement. And, it has an Tab component form where you can export (PDF and EXCEL modes) a data collection in a specific period of time.
+You can see a lot of charts and tables with a lot of data pressure measurement. And, it has an Tab component form where you can export (PDF and EXCEL modes) a data collection in a specific period of time.

@@ -100,7 +100,7 @@ export default function Menu() {
     <Box sx={{ display: 'flex' }}>
       <CssBaseline />
       <AppBar position="fixed" open={open}>
-        <Toolbar sx={{backgroundColor:"green"}}>
+        <Toolbar sx={{backgroundColor:"purple"}}>
           <IconButton
             color="inherit"
             aria-label="open drawer"
@@ -113,7 +113,7 @@ export default function Menu() {
           <Typography variant="h5" noWrap component="div">
             <p>
             {/* <img src="/GRD-CMESI-TRANSPARENTE-2 (1).png" align="center" width= '50' height='50' /> */}
-            <Button variant="text" onClick={()=>window.location.reload(true)}  sx={{ backgroundColor: 'green', color: 'white' }} >Temperature IoT Cloud</Button>
+            <Button variant="text" onClick={()=>window.location.reload(true)}  sx={{ backgroundColor: 'purple', color: 'white' }} >Pressure IoT Cloud</Button>
                                 
             </p>
           </Typography>

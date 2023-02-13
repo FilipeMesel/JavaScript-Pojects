@@ -1,5 +1,5 @@
 {
-  "name": "temperature-app",
+  "name": "pressure-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
